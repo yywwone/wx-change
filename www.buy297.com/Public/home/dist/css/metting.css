@@ -1,0 +1,155 @@
+*{outline: none;}
+.title{
+	width: 100%;
+	height: 0.34rem;
+	background-color: #434141;
+}
+.title>P{
+    width: 100%;
+    text-align: center;
+	color: #FFFFFF;
+	line-height: 0.34rem;
+}
+/* CSS Document */
+.wx_qyfw_header_img{
+	width:3.745rem;
+	height: 2.425rem;
+}
+.wx_qyfw_header_img img{
+	width:100%;
+	height:100%;
+}
+
+/* metting */
+
+.fitr{
+	height: 0.4rem;
+	border-bottom: solid 0.01rem #cfcfcf;
+}
+.fitr>td{
+	font-size: 0.14rem;
+}
+.fitr>td sup{
+	color: #fe0101;
+	font-size: 0.10rem;
+}
+.fitr td:nth-of-type(1){
+	padding-left:0.35rem;
+	color: #333333;
+}
+.fitr td:nth-of-type(2){
+	padding-left: 0.12rem;
+	text-align: center;
+}
+.use-inp{
+	font-size: 0.12rem;
+	border: none;
+	width: 100%;
+	height: 0.4rem;
+	color: #999999;
+}
+
+input::-webkit-input-placeholder{
+    color: #999;
+}
+
+.txt1{
+	border: none;
+	height:0.4rem;
+	width: 100%;
+	line-height: 0.2rem;
+	resize: none;
+	color:#999999;
+}
+.he-ii{
+	width: 80%;
+	margin: 0 auto;
+	display: block;
+	height: 0.38rem;
+	margin-top: 0.28rem;
+	border: none;
+	color: #FFFFFF;
+	background-color: #1E1C7D;
+	border-radius: 0.03rem;
+	margin-bottom: 0.22rem;
+}
+.marsk-tips88{
+	position: absolute;
+	width: 1.3rem;
+	height: 0.5rem;
+	text-align: center;
+	line-height: 0.5rem;
+	border-radius: 0.2rem;
+	color: #FFFFFF;
+	background-color: rgba(0,0,0,0.4);
+	top: 50%;
+	margin-top:-0.25rem;
+	left: 50%;
+	margin-left:-0.65rem;
+	z-index: 10;
+	display: none;
+}
+
+/* 单选按钮 */
+.fitr .radio span {
+    color: #999;
+    margin-right: 0.06rem;
+}
+.fitr .ticket{
+    margin-left: -0.9rem;
+}
+
+/* 普票 */
+.puSpan .span1 {
+    color: #666;
+}
+.puSpan .span2 {
+    margin-left: 1.1rem;
+    margin-right: 1.1rem;
+}
+.puSpan .span3 {
+    color:#28aaf8
+}
+#ticketPiao,#zhuanpiao,#need{
+    position: absolute;
+    left: 0rem;
+	bottom: 0rem;
+	z-index: 10;
+	background: #fff;
+	display: none;
+}
+.mytable {
+    position: relative;
+}
+.checkbox {
+	color: #999;
+}
+.checkbox .ticket{
+	padding-left: 0.8rem;
+}
+.need1 {
+	margin-right: 0.5rem;
+	margin-left: 0.2rem;
+}
+.need2 {
+	margin-right: 0.08rem;
+}
+.need3 {
+	margin-right: 0.5rem;
+}
+.need4 {
+	margin-right: 0.08rem;
+}
+.need5 {
+	margin-right: 0.45rem;
+}
+#can {
+	padding-left: 0.1rem;
+}
+.yuan {
+	padding-left: 0.1rem;
+}
+.truest {
+	float: right;
+	margin-right: 0.3rem;
+}

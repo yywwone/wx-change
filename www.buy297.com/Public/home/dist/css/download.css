@@ -1,0 +1,32 @@
+*{outline: none;}
+.title{
+	width: 100%;
+	height: 0.34rem;
+	background-color: #434141;
+}
+.title>P{
+    width: 100%;
+    text-align: center;
+	color: #FFFFFF;
+	line-height: 0.34rem;
+}
+.downlist p{
+    box-sizing: border-box;
+    width:3.4rem;
+    height: 0.3rem;
+    line-height: 0.3rem;
+    color: #fff;
+    text-align: center;
+    margin-top: 0.2rem;
+    margin-left: 0.19rem;
+    font-size: 0.12rem;
+    border-radius: 0.04rem;
+}
+.downlist p a {
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px solid #fff;
+}
+.downColor {
+    background-color: #ccc;
+}
